@@ -1,0 +1,1 @@
+Aplicación sencilla con arquitectura hexagonal en la cual se pueden crear tareas y listarlas
